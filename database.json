@@ -1,0 +1,834 @@
+{
+  "customers": [
+    {
+      "name": "Stephen Smith",
+      "email": "stephen@gmail.com",
+      "phoneNumber": "7065624634",
+      "id": 7
+    },
+    {
+      "name": "Brenn Butler",
+      "email": "B@gmail.com",
+      "phoneNumber": "232324435",
+      "id": 8
+    }
+  ],
+  "goals": [
+    {
+      "id": 1,
+      "name": "strength training"
+    },
+    {
+      "id": 2,
+      "name": "build muscle/burn fat"
+    },
+    {
+      "id": 3,
+      "name": "strength/mobility"
+    }
+  ],
+  "muscleGroup": [
+    {
+      "id": 1,
+      "name": "Back/Biceps"
+    },
+    {
+      "id": 2,
+      "name": "Chest/Triceps"
+    },
+    {
+      "id": 3,
+      "name": "Legs/Shoulders"
+    },
+    {
+      "id": 4,
+      "name": "Core Exercise"
+    },
+    {
+      "id": 5,
+      "name": "Agility/HIIT"
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "name": "beginner"
+    },
+    {
+      "id": 2,
+      "name": "intermediate"
+    },
+    {
+      "id": 3,
+      "name": "advanced"
+    }
+  ],
+  "customerWorkouts": [
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-07T14:59:25.288Z",
+      "id": 1
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-07T16:12:30.992Z",
+      "id": 2
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-08T00:06:44.779Z",
+      "id": 3
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-08T16:06:23.159Z",
+      "id": 4
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-08T17:42:04.212Z",
+      "id": 5
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-08T22:14:59.246Z",
+      "id": 7
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-08T22:15:12.169Z",
+      "id": 8
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-09T13:56:56.834Z",
+      "id": 9
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-09T14:43:35.105Z",
+      "id": 10
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-09T16:26:15.144Z",
+      "id": 11
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-10T19:00:27.165Z",
+      "id": 12
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-10T19:01:14.552Z",
+      "id": 13
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 3,
+      "muscleId": 3,
+      "dateCompleted": "2022-08-10T19:10:08.071Z",
+      "id": 14
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-10T19:16:24.384Z",
+      "id": 15
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-10T19:30:39.154Z",
+      "id": 16
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-10T19:57:30.628Z",
+      "id": 18
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-10T23:07:41.395Z",
+      "id": 19
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 3,
+      "dateCompleted": "2022-08-11T16:31:04.155Z",
+      "id": 20
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-11T16:58:27.472Z",
+      "id": 21
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-11T17:53:12.211Z",
+      "id": 23
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-11T20:03:39.184Z",
+      "id": 24
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-12T11:49:48.735Z",
+      "id": 25
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-12T11:55:43.554Z",
+      "id": 26
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-12T19:03:05.573Z",
+      "id": 27
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-12T19:32:40.351Z",
+      "id": 30
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-12T19:54:42.505Z",
+      "id": 31
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 3,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-12T19:57:46.130Z",
+      "id": 32
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-12T20:17:01.058Z",
+      "id": 33
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-13T11:38:41.139Z",
+      "id": 34
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-13T16:34:08.690Z",
+      "id": 35
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-13T17:55:03.368Z",
+      "id": 36
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-13T19:09:46.657Z",
+      "id": 37
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-13T22:20:33.370Z",
+      "id": 38
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-13T23:27:56.078Z",
+      "id": 39
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-13T23:35:39.012Z",
+      "id": 40
+    },
+    {
+      "customerId": 7,
+      "experienceId": "stretch",
+      "goalId": 1,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-13T23:36:14.493Z",
+      "id": 41
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-13T23:56:22.219Z",
+      "id": 43
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-14T11:42:53.962Z",
+      "id": 44
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-14T12:12:35.360Z",
+      "id": 45
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-14T13:42:22.534Z",
+      "id": 46
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-14T15:03:59.457Z",
+      "id": 47
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 2,
+      "dateCompleted": "2022-08-14T15:04:06.199Z",
+      "id": 48
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 1,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-14T22:12:16.384Z",
+      "id": 49
+    },
+    {
+      "customerId": 7,
+      "experienceId": "",
+      "goalId": 1,
+      "muscleId": 3,
+      "dateCompleted": "2022-08-14T22:20:31.670Z",
+      "id": 50
+    },
+    {
+      "customerId": 8,
+      "experienceId": "",
+      "goalId": 2,
+      "muscleId": 1,
+      "dateCompleted": "2022-08-14T22:25:00.162Z",
+      "id": 51
+    }
+  ],
+  "workoutExercises": [
+    {
+      "workoutId": 3,
+      "exerciseId": 2,
+      "id": 7
+    },
+    {
+      "workoutId": 3,
+      "exerciseId": 4,
+      "id": 8
+    },
+    {
+      "workoutId": 3,
+      "exerciseId": 15,
+      "id": 9
+    },
+    {
+      "workoutId": 5,
+      "exerciseId": 21,
+      "id": 13
+    },
+    {
+      "workoutId": 5,
+      "exerciseId": 11,
+      "id": 14
+    },
+    {
+      "workoutId": 5,
+      "exerciseId": 4,
+      "id": 15
+    },
+    {
+      "workoutId": 6,
+      "exerciseId": 3,
+      "id": 16
+    },
+    {
+      "workoutId": 6,
+      "exerciseId": 5,
+      "id": 17
+    },
+    {
+      "workoutId": 6,
+      "exerciseId": 7,
+      "id": 18
+    },
+    {
+      "workoutId": 6,
+      "exerciseId": 14,
+      "id": 19
+    },
+    {
+      "workoutId": 7,
+      "exerciseId": 2,
+      "id": 20
+    },
+    {
+      "workoutId": 7,
+      "exerciseId": 9,
+      "id": 21
+    },
+    {
+      "workoutId": 7,
+      "exerciseId": 11,
+      "id": 22
+    },
+    {
+      "workoutId": 7,
+      "exerciseId": 15,
+      "id": 23
+    }
+  ],
+  "customerProgress": [
+    {
+      "customerId": 7,
+      "image": "https://glenburniefitnessandnutrition.com/wp-content/uploads/2021/12/inbody-scanner-270-results-printout-791x1024.png",
+      "dateCompleted": "2022-08-12T18:53:21.915Z",
+      "id": 9
+    },
+    {
+      "customerId": 7,
+      "image": "https://glenburniefitnessandnutrition.com/wp-content/uploads/2021/12/inbody-scanner-270-results-printout-791x1024.png",
+      "dateCompleted": "2022-08-12T22:13:13.678Z",
+      "id": 11
+    },
+    {
+      "customerId": 7,
+      "image": "https://glenburniefitnessandnutrition.com/wp-content/uploads/2021/12/inbody-scanner-270-results-printout-791x1024.png",
+      "dateCompleted": "2022-08-12T22:21:52.468Z",
+      "id": 12
+    }
+  ],
+  "workouts": [
+    {
+      "customerId": 7,
+      "workoutName": "Wednesday Chest/Tricep(strength)",
+      "dateCompleted": "Fri Aug 12 2022",
+      "id": 3
+    },
+    {
+      "customerId": 7,
+      "workoutName": "Friday Back/Bi (Strength)",
+      "dateCompleted": "Sat Aug 13 2022",
+      "id": 5
+    },
+    {
+      "customerId": 7,
+      "workoutName": "Thursday strength(Legs/shoulders)",
+      "dateCompleted": "Sun Aug 14 2022",
+      "id": 6
+    },
+    {
+      "customerId": 7,
+      "workoutName": "Friday strnght(back/bi)",
+      "dateCompleted": "Sun Aug 14 2022",
+      "id": 7
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Pelvic Tilt with Downward Dog",
+      "goalId": 3,
+      "sets": "3",
+      "reps": "6",
+      "rest": "45sec",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=uPU8289SsHk"
+    },
+    {
+      "id": 2,
+      "name": "Dumbbell Floor Press",
+      "goalId": 1,
+      "sets": "3-4",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 2,
+      "exampleVid": "https://www.youtube.com/watch?v=a9QGTDUUz7M&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs&index=221"
+    },
+    {
+      "id": 3,
+      "name": "Dumbbell Renegade Row Single Arm",
+      "goalId": 2,
+      "sets": "8",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 3,
+      "muscleId": 1,
+      "exampleVid": "https://www.youtube.com/watch?v=hdVKbhl653M"
+    },
+    {
+      "id": 4,
+      "name": " Incline Barbell Bench Press",
+      "goalId": 1,
+      "sets": "5",
+      "reps": "5",
+      "rest": "3-5min",
+      "weightPerSet": "75-85%",
+      "equipmentId": "",
+      "levelId": 3,
+      "muscleId": 2,
+      "exampleVid": "https://youtu.be/vbc9E9_Clb4"
+    },
+    {
+      "id": 5,
+      "name": "Single Arm Incline Dumbbell Chest Press",
+      "goalId": 2,
+      "sets": "3",
+      "reps": "10/side",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 2,
+      "exampleVid": "https://www.youtube.com/watch?v=5Ug5VgTi34I&index=328&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 6,
+      "name": "Swiss Ball Plank Rollout",
+      "goalId": 3,
+      "sets": "",
+      "reps": "12",
+      "rest": "4",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 3,
+      "exampleVid": "https://www.youtube.com/watch?v=9-7IeXlPDtA&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs&index=208"
+    },
+    {
+      "id": 7,
+      "name": "Jacobs Ladder",
+      "goalId": 2,
+      "sets": "3",
+      "reps": "60sec",
+      "rest": "45sec",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 5,
+      "exampleVid": "https://www.youtube.com/watch?v=ccl4Ps3VLB0"
+    },
+    {
+      "id": 8,
+      "name": "Turkish Full Get Up",
+      "goalId": 3,
+      "sets": "3",
+      "reps": "3/side",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 3,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=O4DX0tm0PUo&index=183&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 9,
+      "name": "Pull Up Assisted Neutral Grip ",
+      "goalId": 1,
+      "sets": "4",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 1,
+      "exampleVid": "https://youtu.be/AsUBri1uYzo"
+    },
+    {
+      "id": 10,
+      "name": "Kettle Bell Goblet Squat",
+      "goalId": 3,
+      "sets": "4",
+      "reps": "6",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 3,
+      "exampleVid": "https://www.youtube.com/watch?v=AJXBjM6MjjQ&index=169&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 11,
+      "name": "Pigeon Stretch",
+      "goalId": 1,
+      "sets": "2",
+      "reps": "45sec",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=oLpnMAa1Ugc"
+    },
+    {
+      "id": 12,
+      "name": "Swiss Ball Figure 8",
+      "goalId": 2,
+      "sets": "3",
+      "reps": "5",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=FUVEnSG7AWk&index=209&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 13,
+      "name": "Dumbbell Row in Golf Posture",
+      "goalId": 3,
+      "sets": "4",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 1,
+      "exampleVid": "https://www.youtube.com/watch?v=kR6TXl8juvI"
+    },
+    {
+      "id": 14,
+      "name": "Hammer Strength Ground Base Combo Decline",
+      "goalId": 2,
+      "sets": "4",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=X2ayrv7mSP8&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs&index=188"
+    },
+    {
+      "id": 15,
+      "name": "Single Arm Dumbbell Chest Press",
+      "goalId": 1,
+      "sets": "3",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 2,
+      "exampleVid": "https://www.youtube.com/watch?v=Yy5qVj0zPYk&index=319&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 16,
+      "name": "Freemotion Push Pull Combo",
+      "goalId": 2,
+      "sets": "4",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=0a4HK2LXjUU&index=219&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 17,
+      "name": "Hammer Strength Ground Base Twist Combo",
+      "goalId": 2,
+      "sets": "3",
+      "reps": "10",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=rSiabtOncMw&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs&index=189"
+    },
+    {
+      "id": 18,
+      "name": "Versaclimber",
+      "goalId": 3,
+      "sets": "3",
+      "reps": "60sec",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 5,
+      "exampleVid": "https://www.youtube.com/watch?v=X7x5toklDF4&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs&index=18"
+    },
+    {
+      "id": 20,
+      "name": "Box Step Up",
+      "goalId": 3,
+      "sets": "3",
+      "reps": "6/side",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 3,
+      "exampleVid": "https://www.youtube.com/watch?v=BIOEKGRylLs&index=27&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    },
+    {
+      "id": 21,
+      "name": "DB RDL",
+      "goalId": 1,
+      "sets": "4",
+      "reps": "8",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 3,
+      "exampleVid": "https://youtu.be/hQgFixeXdZo"
+    },
+    {
+      "id": 22,
+      "name": "Burpee T Arm Position ",
+      "goalId": 3,
+      "sets": "3",
+      "reps": "8",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 2,
+      "muscleId": 5,
+      "exampleVid": "https://youtu.be/Kj1jCvCt6w0"
+    },
+    {
+      "id": 23,
+      "name": "Open Book w/ Rear FMT Band Resistance",
+      "goalId": 3,
+      "sets": "3",
+      "reps": "6",
+      "rest": "",
+      "weightPerSet": "",
+      "equipmentId": "",
+      "levelId": 1,
+      "muscleId": 4,
+      "exampleVid": "https://www.youtube.com/watch?v=DkkPO1zijQ4&index=201&list=PLQXADAcqb90DEoWamwb2IVsbN2gWvoKAs"
+    }
+  ]
+}
