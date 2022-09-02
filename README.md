@@ -5,10 +5,9 @@ The goal, to build an application that will provide people with fitness tools an
 personalized workout programs based on a users criteria. This project was my first solo sprint front-end application, 
 where I created both UI and styling...aswell, I implemented fetched remote API data in addition to creating my own 
 local database-API(fit-generation which is saved in its own repository here: https://github.com/SAS7178/Fit-Generation).
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Technologies Used
-
 - Javascript
 - REACT
 - REACTStrap
