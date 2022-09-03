@@ -7,34 +7,49 @@ where I created both UI and styling...aswell, I implemented fetched remote API d
 local database-API(fit-generation which is saved in its own repository here: https://github.com/SAS7178/Fit-Generation).
 
 ## Technologies Used
-- Javascript
-- REACT
-- REACTStrap
-- Json
-- HTML
-- CSS
-- Figma
-- Postman
 
-![Mud-commercial](https://user-images.githubusercontent.com/95872359/188037277-694fda1a-696a-469b-882e-59cea42fc72d.gif)
-Testing***
+![](https://user-images.githubusercontent.com/105528673/183157779-a08151c2-07d4-469a-b1bf-fa409416d6ea.png) 
+![](https://user-images.githubusercontent.com/105528673/183157835-99e6ec8c-701a-445b-ac72-0e9127112edd.png) 
+![](https://user-images.githubusercontent.com/105528673/183157888-59cfa84d-da1f-4adb-acf7-858c87b63a87.png) 
+![](https://user-images.githubusercontent.com/105528673/183157933-3a0c3484-a02a-4734-b7a3-d6b1c2904b83.png) 
+![](https://user-images.githubusercontent.com/105528673/183157976-5543fa85-504e-41ad-9e00-016e5ca1b7e5.png) 
+![](https://user-images.githubusercontent.com/105528673/183158015-89d806bd-2894-46f5-a5cf-e9642f48a8f3.png) 
+![](https://user-images.githubusercontent.com/105528673/183158127-8d8c783d-19ad-4213-af19-1f54d91be8cb.png)
+![](https://user-images.githubusercontent.com/105528673/183158164-e94a87d3-6bd8-497e-9770-4074141ee75a.png)
+![]()
+
+Application GIF below
+![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
+
 ## Figma- 
 ![](https://github.com/SAS7178/fit-generation/blob/main/images/FigmaWireframe%20FitGen.png?raw=true)
 
 ## Lucid Charts(ERD)
 ![](https://github.com/SAS7178/fit-generation/blob/main/images/Lucid%20ERD.png?raw=true)
 
-## To Run This Appliaction:
+## Running This Application (Test-It Out!)
 
-1.Pull down both the fit-Generation and fit-generation-api code from GitHub
+1.First, a note about authentication... This application uses mock authentication which is purely for demonstration purposes. Therefore the login and 
+      registration code written here is completely insecure and would never be implemented in a professional application.
 
-2.Navigate to the file fit-generation-api in terminal and serve with: database.json -p 8088
+            -Clone This Repository And Change To The Directory In The Terminal-
+            git clone git@github.com:SAS7178/Fit-Generation.git
+            cd Fit-Generation
+  
+2.Access And Run The Database
 
-3.Navigate to fit-generation in another terminal window and serve with: npm start (default serve to localHost:3000)
-      
-      --your browser may open automatically-- 
+            git clone git@github.com:SAS7178/Fit-Generation-API.git
+            json-server -p 8088 database.json -w
+     
+3.Launch the client.
 
-4.Open browser and navigate to your localHost:3000
+            npm install
+            npm start
+
+4.User Login
+
+      stephen@gmail.com
+
 
 - Fit-Generation-API: https://github.com/SAS7178/Fit-Generation-API  
 - Fit-Generation repository: https://github.com/SAS7178/fit-generation
