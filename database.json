@@ -34,15 +34,15 @@
     },
     {
       "Id": 4,
-      "Quote": "Just remember",
-      "Author": "somewhere",
-      "Category": "a little Chinese girl is warming up with your max."
+      "Quote": "Just remember...a little Chinese girl is warming up with your max somewhere.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 5,
-      "Quote": "Fortunately",
-      "Author": "there is a solution",
-      "Category": "and it’s not performing multiple sets of whatever cable Kegel exercise is being pushed as “The Answer.” Just a little hard"
+      "Quote": "Fortunately,there is a solution and it’s not performing multiple sets of whatever cable Kegel exercise is being pushed as “The Answer.” Just a little hard",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 6,
@@ -52,9 +52,9 @@
     },
     {
       "Id": 7,
-      "Quote": "My old routine was McDonald's on the way to the gym",
-      "Author": "coffee during my workout",
-      "Category": "Burger King and Copenhagen post-workout."
+      "Quote": "My old routine was McDonald's on the way to the gym,coffee during my workout Burger King and Copenhagen post-workout.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 8,
@@ -64,45 +64,45 @@
     },
     {
       "Id": 9,
-      "Quote": "If you want something you’ve never had",
-      "Author": "you must be willing to do something you’ve never done.",
-      "Category": "Thomas Jefferson"
+      "Quote": "If you want something you’ve never had you must be willing to do something you’ve never done.",
+      "Author": "Thomas Jefferson",
+      "Category": ""
     },
     {
       "Id": 10,
-      "Quote": "I'm an extremist",
-      "Author": "and I hope to be remembered that way: noncompliant and an artist. I do not want to be remembered as a nice guy. I want to be the slayer of Bambi.",
-      "Category": "David Dearth"
+      "Quote": "I'm an extremist and I hope to be remembered that way: noncompliant and an artist. I do not want to be remembered as a nice guy. I want to be the slayer of Bambi.",
+      "Author": "David Dearth",
+      "Category": ""
     },
     {
       "Id": 11,
-      "Quote": "If a man tells you he doesn't lift because he doesn't want to get too bulky",
-      "Author": "then his testicles have been removed.",
-      "Category": "Paul Carter"
+      "Quote": "If a man tells you he doesn't lift because he doesn't want to get too bulky.. then his testicles have been removed.",
+      "Author": "Paul Carter",
+      "Category": ""
     },
     {
       "Id": 12,
-      "Quote": "For me",
-      "Author": "life is continuously being hungry. The meaning of life is not simply to exist",
-      "Category": "to survive"
+      "Quote": "For me, life is about continuously staying hungry. The meaning of life is not simply to survive",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 13,
-      "Quote": "If you're capable of sending a legible text message between sets",
-      "Author": "you probably aren't working hard enough.",
-      "Category": "Dave Tate"
+      "Quote": "If you're capable of sending a legible text message between sets..you probably aren't working hard enough.",
+      "Author": "Dave Tate",
+      "Category": ""
     },
     {
       "Id": 14,
-      "Quote": "Last time I checked",
-      "Author": "lifting theory has a PR of zero.",
-      "Category": "Steve Shaw"
+      "Quote": "Last time I checked, lifting theory has a PR of zero.",
+      "Author": "Steve Shaw",
+      "Category": ""
     },
     {
       "Id": 15,
-      "Quote": "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying",
-      "Author": "'I will try again tomorrow'.",
-      "Category": "Mary Anne Radmacher"
+      "Quote": "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying 'I will try again tomorrow'.",
+      "Author": "Mary Anne Radmacher",
+      "Category": ""
     },
     {
       "Id": 16,
@@ -118,15 +118,15 @@
     },
     {
       "Id": 18,
-      "Quote": "I'm the strongest bodybuilding who ever lived",
-      "Author": "I think.",
-      "Category": "Franco Columbu"
+      "Quote": "I'm the strongest bodybuilder who ever lived...I think.",
+      "Author": "Franco Columbu",
+      "Category": ""
     },
     {
       "Id": 19,
-      "Quote": "There is no such thing as over training",
-      "Author": "just under nutrition and under sleeping.",
-      "Category": "The Barbarian Brothers"
+      "Quote": "There is no such thing as over training, just under nutrition and under sleeping.",
+      "Author": "The Barbarian Brothers",
+      "Category": ""
     },
     {
       "Id": 20,
@@ -136,9 +136,9 @@
     },
     {
       "Id": 21,
-      "Quote": "I don’t do this to be healthy",
-      "Author": "I do this to get big muscles.",
-      "Category": "Markus Ruhl"
+      "Quote": "I don’t do this to be healthy, I do this to get big muscles.",
+      "Author": "Markus Ruhl",
+      "Category": ""
     },
     {
       "Id": 22,
@@ -148,9 +148,9 @@
     },
     {
       "Id": 23,
-      "Quote": "Discipline is doing what you hate to do",
-      "Author": "but nonetheless doing it like you love it.",
-      "Category": "Mike Tyson"
+      "Quote": "Discipline is doing what you hate to do...but nonetheless doing it like you love it.",
+      "Author": "Mike Tyson",
+      "Category": ""
     },
     {
       "Id": 24,
@@ -166,9 +166,9 @@
     },
     {
       "Id": 26,
-      "Quote": "The single biggest mistake that most beginners make is putting 100% of their effort into the positive (concentric) part of the rep",
-      "Author": "while paying no attention to the negative (eccentric) segment.",
-      "Category": "Dorian Yates"
+      "Quote": "The single biggest mistake that most beginners make is putting 100% of their effort into the positive (concentric) part of the rep, while paying no attention to the negative (eccentric) segment.",
+      "Author": "Dorian Yates",
+      "Category": ""
     },
     {
       "Id": 27,
@@ -178,9 +178,9 @@
     },
     {
       "Id": 28,
-      "Quote": "There's more to life than training",
-      "Author": "but training is what puts more in your life.",
-      "Category": "Brooks Kubik"
+      "Quote": "There's more to life than training but training is what puts more in your life.",
+      "Author": "Brooks Kubik",
+      "Category": ""
     },
     {
       "Id": 29,
@@ -190,25 +190,25 @@
     },
     {
       "Id": 30,
-      "Quote": "You are right to be wary. There is much bullshit. Be wary of me too",
-      "Author": "because I may be wrong. Make up your own mind after you evaluate all the evidence and the logic.",
-      "Category": "Mark Rippetoe"
+      "Quote": "You are right to be wary. There is much bullshit. Be wary of me too because I may be wrong. Make up your own mind after you evaluate all the evidence and the logic.",
+      "Author": "Mark Rippetoe",
+      "Category": ""
     },
     {
       "Id": 31,
-      "Quote": "I would like to be the first man in the gym business to throw out my scale. If you don’t like what you see in the mirror",
-      "Author": "what difference does it make what the scale says?",
-      "Category": "Vince Gironda"
+      "Quote": "I would like to be the first man in the gym business to throw out my scale. If you don’t like what you see in the mirror what difference does it make what the scale says?",
+      "Author": "Vince Gironda",
+      "Category": ""
     },
     {
       "Id": 32,
-      "Quote": "Don't measure yourself by what you have accomplished",
-      "Author": "but by what you should have accomplished with your ability.",
-      "Category": "John Wooden"
+      "Quote": "Don't measure yourself by what you have accomplished but by what you should have accomplished with your ability.",
+      "Author": "John Wooden",
+      "Category": ""
     },
     {
       "Id": 33,
-      "Quote": "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
+      "Quote": "Nothing can stop the man with the right mental attitude from achieving his goal, and nothing on earth can help the man with the wrong mental attitude.",
       "Author": "Thomas Jefferson",
       "Category": "Other"
     },
@@ -226,9 +226,9 @@
     },
     {
       "Id": 36,
-      "Quote": "I believe you should train with the program you believe in. I'm out of the \"justify my program\" business; follow the path that will lead you to glorious times",
-      "Author": "to quote Ramesses.",
-      "Category": "Jim Wendler"
+      "Quote": "I believe you should train with the program you believe in. I'm out of the \"justify my program\" business; follow the path that will lead you to glorious times to quote Ramesses.",
+      "Author": "Jim Wendler",
+      "Category": ""
     },
     {
       "Id": 37,
@@ -238,21 +238,21 @@
     },
     {
       "Id": 38,
-      "Quote": "People laugh and call me lazy",
-      "Author": "while they twit around in their three-hour workout making zero progress. Sometimes",
-      "Category": "instead of what you do in the weight room"
+      "Quote": "Life's too short to be small! ",
+      "Author": "Coach Terry Powell",
+      "Category": ""
     },
     {
       "Id": 39,
-      "Quote": "I don’t eat for taste",
-      "Author": "I eat for function.",
-      "Category": "Jay Cutler"
+      "Quote": "I don’t eat for taste I eat for function.",
+      "Author": "Jay Cutler",
+      "Category": ""
     },
     {
       "Id": 40,
-      "Quote": "If you think lifting weights is dangerous",
-      "Author": "try being weak. Being weak is dangerous.",
-      "Category": "Bret Contreras"
+      "Quote": "If you think lifting weights is dangerous, try being weak. Being weak is dangerous.",
+      "Author": "Bret Contreras",
+      "Category": ""
     },
     {
       "Id": 41,
@@ -274,21 +274,21 @@
     },
     {
       "Id": 44,
-      "Quote": "At the end of the day it's not a weight contest",
-      "Author": "it's a visual contest. And it doesn't matter what you say you weigh",
-      "Category": "if you don't look that big then you don't look that big."
+      "Quote": "At the end of the day it's not a weight contest, it's a visual contest. And it doesn't matter what you say you weigh if you don't look that big then you don't look that big.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 45,
-      "Quote": "They can crack jokes. They can sit back and analyze and criticize and make all the fun they want. But I’m living my life",
-      "Author": "I’m doing it. What are you doing?",
-      "Category": "Kai Greene"
+      "Quote": "They can crack jokes. They can sit back and analyze and criticize and make all the fun they want. But I’m living my life I’m doing it. What are you doing?",
+      "Author": "Kai Greene",
+      "Category": ""
     },
     {
       "Id": 46,
-      "Quote": "On the Internet",
-      "Author": "everyone squats. In real life",
-      "Category": "the squat rack is always empty. You figure out what this means."
+      "Quote": "On the Internet everyone squats. But in real life the squat rack is always empty. You figure out what this means.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 47,
@@ -298,27 +298,27 @@
     },
     {
       "Id": 48,
-      "Quote": "I’ve made many good friends in bodybuilding",
-      "Author": "though there are few I’d trust to oil my back.",
-      "Category": "Lee Labrada"
+      "Quote": "I’ve made many good friends in bodybuilding though there are few I’d trust to oil my back.",
+      "Author": "Lee Labrada",
+      "Category": ""
     },
     {
       "Id": 49,
-      "Quote": "The longer I train",
-      "Author": "the less and less shit I do. The less shit I do",
-      "Category": "the stronger I get. The more I emphasize recovery"
+      "Quote": "The longer I train the less and less shit I do. The less shit I do the stronger I get. The more I emphasize recovery",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 50,
-      "Quote": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender",
-      "Author": "that is strength.",
-      "Category": "Arnold Schwarzenegger"
+      "Quote": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender that is strength.",
+      "Author": "Arnold Schwarzenegger",
+      "Category": ""
     },
     {
       "Id": 51,
-      "Quote": "When I go out there onstage",
-      "Author": "I want to be more than just a blocky guy who waddles onto the posing platform. I want the girls to feel something.",
-      "Category": "Tom Platz"
+      "Quote": "When I go out there onstage I want to be more than just a blocky guy who waddles onto the posing platform. I want the girls to feel something.",
+      "Author": "Tom Platz",
+      "Category": ""
     },
     {
       "Id": 52,
@@ -340,9 +340,9 @@
     },
     {
       "Id": 55,
-      "Quote": "Champions aren’t made in the gyms. Champions are made from something they have deep inside them-a desire",
-      "Author": "a dream",
-      "Category": "a vision."
+      "Quote": "Champions aren’t made in the gyms. Champions are made from something they have deep inside them-a desire a dream a vision.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 56,
@@ -352,21 +352,21 @@
     },
     {
       "Id": 57,
-      "Quote": "Vision creates faith and faith creates willpower. With faith",
-      "Author": "there is no anxiety and no doubt – just absolute confidence in yourself.",
-      "Category": "Arnold Schwarzenegger"
+      "Quote": "Vision creates faith and faith creates willpower. With faith there is no anxiety and no doubt – just absolute confidence in yourself.there is no anxiety and no doubt – just absolute confidence in yourself.",
+      "Author": "Arnold Schwarzenegger",
+      "Category": ""
     },
     {
       "Id": 58,
-      "Quote": "Being negative and lazy is a disease that leads to pain",
-      "Author": "hardships",
-      "Category": "depression"
+      "Quote": "Being negative and lazy is a disease that leads to pain, hardships, and depression",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 59,
-      "Quote": "Bodybuilding is much like any other sport. To be successful",
-      "Author": "you must dedicate yourself 100% to your training",
-      "Category": "diet and mental approach."
+      "Quote": "Bodybuilding is much like any other sport. To be successful you must dedicate yourself 100% to your training diet and mental approach.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 60,
@@ -406,9 +406,9 @@
     },
     {
       "Id": 66,
-      "Quote": "If I Have To Die Tonight",
-      "Author": "If This Weight Is Going To Kill Me Tonight",
-      "Category": "SO BE IT! I’m Dying Where I Wanna Be…"
+      "Quote": "If I Have To Die Tonight If This Weight Is Going To Kill Me Tonight SO BE IT! I’m Dying Where I Wanna Be…",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 67,
@@ -424,15 +424,15 @@
     },
     {
       "Id": 69,
-      "Quote": "I always say to myself right before a tough set in the gym",
-      "Author": "Ain’t nothin’ to it",
-      "Category": "but to do it."
+      "Quote": "I always say to myself right before a tough set in the gym Ain’t nothin’ to it but to do it.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 70,
-      "Quote": "If you don’t follow a good nutritional plan",
-      "Author": "you’re bodybuilding with one arm behind your back.",
-      "Category": "Shawn Ray"
+      "Quote": "If you don’t follow a good nutritional plan you’re bodybuilding with one arm behind your back.",
+      "Author": "Shawn Ray",
+      "Category": ""
     },
     {
       "Id": 71,
@@ -448,9 +448,9 @@
     },
     {
       "Id": 73,
-      "Quote": "Bodybuilding is an art",
-      "Author": "your body is the canvas",
-      "Category": "weights are your brush and nutrition is your paint. We all have the ability to turn a self-portrait into a masterpiece."
+      "Quote": "Bodybuilding is an art your body is the canvas weights are your brush and nutrition is your paint. We all have the ability to turn a self-portrait into a masterpiece.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 74,
@@ -466,14 +466,14 @@
     },
     {
       "Id": 76,
-      "Quote": "When it gets difficult is often right before you succeed.",
+      "Quote": "When it gets difficult it's often right before you succeed.",
       "Author": "Jeffrey Walker",
       "Category": "Success"
     },
     {
       "Id": 77,
-      "Quote": "Successful people are not gifted; they just work hard",
-      "Author": "then succeed on purpose.",
+      "Quote": "Successful people are not gifted; they just work hard then succeed on purpose.",
+      "Author": "",
       "Category": "Unknown"
     },
     {
@@ -484,27 +484,27 @@
     },
     {
       "Id": 79,
-      "Quote": "If you train hard",
-      "Author": "you’ll not only be hard",
-      "Category": "you’ll be hard to beat."
+      "Quote": "If you train hard you’ll not only be hard, you’ll be hard to beat.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 80,
-      "Quote": "If you can imagine it",
-      "Author": "you can achieve it; if you can dream it",
-      "Category": "you can become it."
+      "Quote": "If you can imagine it you can achieve it; if you can dream it you can become it.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 81,
-      "Quote": "You were born to win. But to be a winner",
-      "Author": "you must plan to win",
+      "Quote": "You were born to win. But to be a winner you must plan to win",
+      "Author": "",
       "Category": "prepare to win"
     },
     {
       "Id": 82,
-      "Quote": "There are no secrets to success. It is the result of preparation",
-      "Author": "hard work",
-      "Category": "and learning from failure."
+      "Quote": "There are no secrets to success. It is the result of preparation, hard work and learning from failure.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 83,
@@ -514,8 +514,8 @@
     },
     {
       "Id": 84,
-      "Quote": "No pain",
-      "Author": "no gain",
+      "Quote": "No pain, no gain",
+      "Author": "",
       "Category": "Unknown"
     },
     {
@@ -526,9 +526,9 @@
     },
     {
       "Id": 86,
-      "Quote": "Winners focus on winning",
-      "Author": "losers focus on winners.",
-      "Category": "Unknown"
+      "Quote": "Winners focus on winning, losers focus on winners.",
+      "Author": "Unknown",
+      "Category": ""
     },
     {
       "Id": 87,
@@ -550,9 +550,9 @@
     },
     {
       "Id": 90,
-      "Quote": "If you can’t handle being talked about",
-      "Author": "you’re not ready for success.",
-      "Category": "Unknown"
+      "Quote": "If you can’t handle being talked about you’re not ready for success.",
+      "Author": "Unknown",
+      "Category": ""
     },
     {
       "Id": 91,
@@ -586,15 +586,15 @@
     },
     {
       "Id": 96,
-      "Quote": "When it comes to eating right and exercising",
-      "Author": "there is no ‘I’ll start tomorrow.’ Tomorrow is a disease.",
-      "Category": "V.L. Allinear"
+      "Quote": "When it comes to eating right and exercising there is no ‘I’ll start tomorrow.’ Tomorrow is a disease.",
+      "Author": "V.L. Allinear",
+      "Category": ""
     },
     {
       "Id": 97,
-      "Quote": "The fight is won or lost far away from witnesses",
-      "Author": "behind the lines",
-      "Category": "in the gym"
+      "Quote": "The fight is won or lost far away from witnesses behind the lines in the gym",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 98,
@@ -610,9 +610,9 @@
     },
     {
       "Id": 100,
-      "Quote": "There is no such thing as failure",
-      "Author": "only results.",
-      "Category": "Tony Robbins"
+      "Quote": "There is no such thing as failure only results.",
+      "Author": "Tony Robbins",
+      "Category": ""
     },
     {
       "Id": 101,
@@ -628,21 +628,21 @@
     },
     {
       "Id": 103,
-      "Quote": "Victory isn’t defined by wins and losses",
-      "Author": "it’s defined by effort.",
-      "Category": "Kai Greene"
+      "Quote": "Victory isn’t defined by wins and losses it’s defined by effort.",
+      "Author": "Kai Greene",
+      "Category": ""
     },
     {
       "Id": 104,
-      "Quote": "The body always fails first",
-      "Author": "not the mind. The trick is to make the mind work for you",
-      "Category": "not against you."
+      "Quote": "The body always fails first not the mind. The trick is to make the mind work for you not against you.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 105,
-      "Quote": "Just like in bodybuilding",
-      "Author": "failure is also a necessary experience for growth in our own lives",
-      "Category": "for if we’re never tested to our limits"
+      "Quote": "Just like in bodybuilding failure is also a necessary experience for growth in our own lives for if we’re never tested to our limits",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 106,
@@ -652,9 +652,9 @@
     },
     {
       "Id": 107,
-      "Quote": "To be a champion",
-      "Author": "you must act like a champion.",
-      "Category": "Lou Ferrigno"
+      "Quote": "To be a champion you must act like a champion.",
+      "Author": "Lou Ferrigno",
+      "Category": ""
     },
     {
       "Id": 108,
@@ -748,9 +748,9 @@
     },
     {
       "Id": 123,
-      "Quote": "There’s no secret formula. I lift heavy",
-      "Author": "work hard",
-      "Category": "and aim to be the best."
+      "Quote": "There’s no secret formula. I lift heavy work hard and aim to be the best.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 124,
@@ -766,9 +766,9 @@
     },
     {
       "Id": 126,
-      "Quote": "Unless you puke",
-      "Author": "faint",
-      "Category": "or die"
+      "Quote": "Unless you puke, faint or die",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 127,
@@ -784,15 +784,15 @@
     },
     {
       "Id": 129,
-      "Quote": "Whenever you feel like giving up",
-      "Author": "think of all the people that would love to see you fail.",
-      "Category": "Unknown"
+      "Quote": "Whenever you feel like giving up think of all the people that would love to see you fail.",
+      "Author": "Unknown",
+      "Category": ""
     },
     {
       "Id": 130,
-      "Quote": "Once you have commitment",
-      "Author": "you need the discipline and hard work to get you there.",
-      "Category": "Haile Gebrselassie"
+      "Quote": "Once you have commitment you need the discipline and hard work to get you there.",
+      "Author": "Haile Gebrselassie",
+      "Category": ""
     },
     {
       "Id": 131,
@@ -844,21 +844,21 @@
     },
     {
       "Id": 139,
-      "Quote": "Not all hustle is loud. Sometimes hustle is just you",
-      "Author": "all alone",
+      "Quote": "Not all hustle is loud. Sometimes hustle is just you, all alone",
+      "Author": "Unknown",
       "Category": "grinding"
     },
     {
       "Id": 140,
-      "Quote": "You can’t cheat the grind",
-      "Author": "it knows how much you have invested. It wont give you anything you haven’t worked for.",
-      "Category": "Unknown"
+      "Quote": "You can’t cheat the grind it knows how much you have invested. It wont give you anything you haven’t worked for.",
+      "Author": "Unknown",
+      "Category": ""
     },
     {
       "Id": 141,
-      "Quote": "You see things; and you say",
-      "Author": "‘Why?' But I dream things that never were; and I say",
-      "Category": "‘Why not?'"
+      "Quote": "You see things; and you say ‘Why?' But I dream things that never were; and I say ‘Why not?'",
+      "Author": "Unknown",
+      "Category": ""
     },
     {
       "Id": 142,
@@ -880,9 +880,9 @@
     },
     {
       "Id": 145,
-      "Quote": "No matter where you're from",
-      "Author": "your dreams are valid.",
-      "Category": "Lupita Nyong'o"
+      "Quote": "No matter where you're from your dreams are valid.",
+      "Author": "Lupita Nyong'o",
+      "Category": ""
     },
     {
       "Id": 146,
@@ -898,9 +898,9 @@
     },
     {
       "Id": 148,
-      "Quote": "Keep away from people who try to belittle your ambitions. Small people always do that",
-      "Author": "but the really great make you feel that you",
-      "Category": "too"
+      "Quote": "Keep away from people who try to belittle your ambitions. Small people always do that but the really great make you feel that you too",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 149,
@@ -928,21 +928,21 @@
     },
     {
       "Id": 153,
-      "Quote": "You don’t have to see the whole staircase",
-      "Author": "just take the first step.",
-      "Category": "Martin Luther King"
+      "Quote": "You don’t have to see the whole staircase just take the first step.",
+      "Author": "Martin Luther King",
+      "Category": ""
     },
     {
       "Id": 154,
-      "Quote": "Be miserable. Or motivate yourself. Whatever has to be done",
-      "Author": "it’s always your choice.",
-      "Category": "Wayne Dyer"
+      "Quote": "Be miserable. Or motivate yourself. Whatever has to be done it’s always your choice.",
+      "Author": "Wayne Dyer",
+      "Category": ""
     },
     {
       "Id": 155,
-      "Quote": "When I'm old and dying",
-      "Author": "I plan to look back on my life and say",
-      "Category": "‘Wow"
+      "Quote": "When I'm old and dying I plan to look back on my life and say Wow",
+      "Author": "",
+      "Category": "‘"
     },
     {
       "Id": 156,
@@ -952,15 +952,15 @@
     },
     {
       "Id": 157,
-      "Quote": "The mind is the limit. As long as the mind can envision the fact that you can do something",
-      "Author": "you can do it",
-      "Category": "as long as you really believe 100 percent."
+      "Quote": "The mind is the limit. As long as the mind can envision the fact that you can do something you can do it as long as you really believe 100 percent.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 158,
-      "Quote": "The more knowledge you have",
-      "Author": "the more you’re free to rely on your instincts.",
-      "Category": "Arnold Schwarzenegger"
+      "Quote": "The more knowledge you have the more you’re free to rely on your instincts.",
+      "Author": "Arnold Schwarzenegger",
+      "Category": ""
     },
     {
       "Id": 159,
@@ -970,9 +970,9 @@
     },
     {
       "Id": 160,
-      "Quote": "My biggest competition is always myself. I mean no disrespect",
-      "Author": "but I do not look at any of the guys as being my competition for the simple reason that I can't control how they're going to look. I can only control how I look.",
-      "Category": "Ronnie Coleman"
+      "Quote": "My biggest competition is always myself. I mean no disrespect but I do not look at any of the guys as being my competition for the simple reason that I can't control how they're going to look. I can only control how I look.",
+      "Author": "Ronnie Coleman",
+      "Category": ""
     },
     {
       "Id": 161,
@@ -982,15 +982,15 @@
     },
     {
       "Id": 162,
-      "Quote": "It is important to have people believe in you. With this support",
-      "Author": "what you can achieve is limitless.",
-      "Category": "Ronnie Coleman"
+      "Quote": "It is important to have people believe in you. With this support what you can achieve is limitless.",
+      "Author": "Ronnie Coleman",
+      "Category": ""
     },
     {
       "Id": 163,
-      "Quote": "Women really do pay attention to a man's glutes. A tight",
-      "Author": "compact ass is often voted even more desirable than muscular arms and chest. So",
-      "Category": "if you're lacking"
+      "Quote": "Women really do pay attention to a man's glutes. A tight compact ass is often voted even more desirable than muscular arms and chest. So if you're lacking",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 164,
@@ -1006,45 +1006,39 @@
     },
     {
       "Id": 166,
-      "Quote": "I've been training so long",
-      "Author": "its second nature to push myself to the limit.",
-      "Category": ""
-    },
-    {
-      "Id": "",
-      "Quote": "Ronnie Coleman",
+      "Quote": "I've been training so long its second nature to push myself to the limit.",
       "Author": "",
       "Category": ""
     },
     {
       "Id": 167,
-      "Quote": "Each workout is like a brick in a building",
-      "Author": "and every time you go in there and do a half-ass workout",
-      "Category": "you're not laying a brick down. Somebody else is."
+      "Quote": "Each workout is like a brick in a building and every time you go in there and do a half-ass workout you're not laying a brick down. Somebody else is.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 168,
-      "Quote": "If I listened to my instincts",
-      "Author": "I'd be down at the pub chasing women",
-      "Category": "not under a 400 pound bar squatting"
+      "Quote": "If I listened to my instincts I'd be down at the pub chasing women not under a 400 pound bar squatting",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 169,
-      "Quote": "If those guys with better genes trained as hard and intense as me",
-      "Author": "I wouldn`t stand a chance!",
-      "Category": "Dorian Yates"
+      "Quote": "If those guys with better genes trained as hard and intense as me I wouldn`t stand a chance!",
+      "Author": "Dorian Yates",
+      "Category": ""
     },
     {
       "Id": 170,
-      "Quote": "The single biggest mistake that most beginners make is putting 100% of their effort into the positive (concentric) part of the rep",
-      "Author": "while paying no attention to the negative (eccentric) segment",
-      "Category": "Dorian Yates"
+      "Quote": "The single biggest mistake that most beginners make is putting 100% of their effort into the positive (concentric) part of the rep while paying no attention to the negative (eccentric) segment",
+      "Author": "Dorian Yates",
+      "Category": ""
     },
     {
       "Id": 171,
-      "Quote": "One set at extreme intensity does the muscle-building job. It must be stressed that the one final",
-      "Author": "all-out set I do takes me to the very limit of my capabilities. If you feel you can attempt a second set",
-      "Category": "then you couldn’t have been pulling out all the stops during the first set. It's not pretty"
+      "Quote": "One set at extreme intensity does the muscle-building job. It must be stressed that the one final all-out set I do takes me to the very limit of my capabilities. If you feel you can attempt a second set then you couldn’t have been pulling out all the stops during the first set. It's not pretty",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 172,
@@ -1054,15 +1048,15 @@
     },
     {
       "Id": 173,
-      "Quote": "Some people's joints articulate in a manner that allows them to benefit greatly from squats; others may not benefit at all. If you're not too tall and have short limbs",
-      "Author": "it may be the best exercise for you",
-      "Category": "but if you're tall with long legs"
+      "Quote": "Some people's joints articulate in a manner that allows them to benefit greatly from squats; others may not benefit at all. If you're not too tall and have short limbs it may be the best exercise for you but if you're tall with long legs",
+      "Author": "",
+      "Category": " "
     },
     {
       "Id": 174,
-      "Quote": "All else being equal",
-      "Author": "the guy with the best genetics will have the best physique. But rarely are all things equal.",
-      "Category": "Dorian Yates"
+      "Quote": "All else being equal the guy with the best genetics will have the best physique. But rarely are all things equal.",
+      "Author": "Dorian Yates",
+      "Category": ""
     },
     {
       "Id": 175,
@@ -1072,9 +1066,9 @@
     },
     {
       "Id": 177,
-      "Quote": "Complex carbohydrates are always best",
-      "Author": "except",
-      "Category": "again"
+      "Quote": "Complex carbohydrates are always best except again",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 178,
@@ -1090,9 +1084,9 @@
     },
     {
       "Id": 180,
-      "Quote": "I also think you have less separation if you are fuller. If you go to the gym and pump your arms up they are bigger because of the blood volume",
-      "Author": "the fullness. But the separation is not so defined.",
-      "Category": "Dorian Yates"
+      "Quote": "I also think you have less separation if you are fuller. If you go to the gym and pump your arms up they are bigger because of the blood volume the fullness. But the separation is not so defined.",
+      "Author": "Dorian Yates",
+      "Category": ""
     },
     {
       "Id": 181,
@@ -1114,15 +1108,15 @@
     },
     {
       "Id": 184,
-      "Quote": "I always say to myself right before a tough set in the gym",
-      "Author": "Ain't nothin' to it",
-      "Category": "but to do it."
+      "Quote": "I always say to myself right before a tough set in the gym Ain't nothin' to it but to do it.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 185,
-      "Quote": "When you love something as much as I love bodybuilding you don't have to do much extra to push yourself",
-      "Author": "it just happens. There were some tough times and when those came up I just used my mental strength to push through knowing that my mind controlled everything.",
-      "Category": "Ronnie Coleman"
+      "Quote": "When you love something as much as I love bodybuilding you don't have to do much extra to push yourself it just happens. There were some tough times and when those came up I just used my mental strength to push through knowing that my mind controlled everything.",
+      "Author": "Ronnie Coleman",
+      "Category": ""
     },
     {
       "Id": 186,
@@ -1132,63 +1126,63 @@
     },
     {
       "Id": 187,
-      "Quote": "I've attained my mass basically by training hard and very",
-      "Author": "very heavy.",
-      "Category": "Ronnie Coleman"
+      "Quote": "I've attained my mass basically by training hard and very very heavy.",
+      "Author": "Ronnie Coleman",
+      "Category": ""
     },
     {
       "Id": 188,
-      "Quote": "I learned from a very young age that no one owes you anything and nobody's gonna give you a damn thing. But you can have anything you want",
-      "Author": "if you work hard enough for it.",
-      "Category": "Branch Warren"
+      "Quote": "I learned from a very young age that no one owes you anything and nobody's gonna give you a damn thing. But you can have anything you want if you work hard enough for it.",
+      "Author": "Branch Warren",
+      "Category": ""
     },
     {
       "Id": 189,
-      "Quote": "If you take a hammer and hit something over and over again",
-      "Author": "it's gonna be destroyed. I don't wanna destroy my body cause I want my body to last me as long as it possible can. If you train hard and push it everyday",
-      "Category": "your body is going to wear out. So I give my body time to recover."
+      "Quote": "If you take a hammer and hit something over and over again it's gonna be destroyed. I don't wanna destroy my body cause I want my body to last me as long as it possible can. If you train hard and push it everyday your body is going to wear out. So I give my body time to recover.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 190,
-      "Quote": "Just because your triceps have fallen behind your biceps",
-      "Author": "doesn't mean you should back off your triceps workouts.",
-      "Category": "Ronnie Coleman"
+      "Quote": "Just because your triceps have fallen behind your biceps doesn't mean you should back off your triceps workouts.",
+      "Author": "Ronnie Coleman",
+      "Category": ""
     },
     {
       "Id": 191,
-      "Quote": "Your body produces a lot less testosterone each and every single year no matter who you are. We are all human",
-      "Author": "nobody is super human.",
-      "Category": "Ronnie Coleman"
+      "Quote": "Your body produces a lot less testosterone each and every single year no matter who you are. We are all human nobody is super human.",
+      "Author": "Ronnie Coleman",
+      "Category": ""
     },
     {
       "Id": 192,
-      "Quote": "The more you're obsessed by something",
-      "Author": "the better chance you have of achieving it.",
-      "Category": "Frank Zane"
+      "Quote": "The more you're obsessed by something the better chance you have of achieving it.",
+      "Author": "Frank Zane",
+      "Category": ""
     },
     {
       "Id": 193,
-      "Quote": "The truth I've discovered is that you don't have to lift enormous weights to grow muscle. By using stricter form",
-      "Author": "slower negatives",
-      "Category": "and stretching between sets you can get an incredible pump in all your workouts. Numbers are an abstraction"
+      "Quote": "The truth I've discovered is that you don't have to lift enormous weights to grow muscle. By using stricter form slower negatives and stretching between sets you can get an incredible pump in all your workouts. Numbers are an abstraction",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 194,
-      "Quote": "Live your life by the hour",
-      "Author": "not by the day. What will you achieve in the next hour?",
-      "Category": "Frank Zane"
+      "Quote": "Live your life by the hour not by the day. What will you achieve in the next hour?",
+      "Author": "Frank Zane",
+      "Category": ""
     },
     {
       "Id": 195,
-      "Quote": "A lot of guys have better genes but if you work hard and consistently",
-      "Author": "you can outperform them.",
-      "Category": "Frank Zane"
+      "Quote": "A lot of guys have better genes but if you work hard and consistently you can outperform them.",
+      "Author": "Frank Zane",
+      "Category": ""
     },
     {
       "Id": 196,
-      "Quote": "Being weak is a choice",
-      "Author": "so is being strong.",
-      "Category": "Frank Zane"
+      "Quote": "Being weak is a choice so is being strong.",
+      "Author": "Frank Zane",
+      "Category": ""
     },
     {
       "Id": 197,
@@ -1198,9 +1192,9 @@
     },
     {
       "Id": 198,
-      "Quote": "In those days",
-      "Author": "I did what was necessary for me to win. This included training with heavy weights: a precursor for injury. So if I could do it over again I’d train with lighter weights",
-      "Category": "higher reps"
+      "Quote": "In those days I did what was necessary for me to win. This included training with heavy weights: a precursor for injury. So if I could do it over again I’d train with lighter weights higher reps",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 199,
@@ -1210,9 +1204,9 @@
     },
     {
       "Id": 200,
-      "Quote": "The old time strongmen used to lift huge weights just enough to clear a sheet of paperit is in this tradition that Sri Chinmoy's lifts should be seen. His real goal is to bring attention to the spiritual life",
-      "Author": "which is the real source of his power. For someone who is approaching 70 years of age",
-      "Category": "training every day with such ponderous weights to inspire humanity is the real world record."
+      "Quote": "The old time strongmen used to lift huge weights just enough to clear a sheet of paperit is in this tradition that Sri Chinmoy's lifts should be seen. His real goal is to bring attention to the spiritual life which is the real source of his power. For someone who is approaching 70 years of age training every day with such ponderous weights to inspire humanity is the real world record.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 201,
@@ -1222,15 +1216,15 @@
     },
     {
       "Id": 202,
-      "Quote": "Actually to be a champion your goal is to be a little bit better each day",
-      "Author": "making sure that every day is an opportunity to be at your best.",
-      "Category": "Phil Heath"
+      "Quote": "Actually to be a champion your goal is to be a little bit better each day making sure that every day is an opportunity to be at your best.",
+      "Author": "Phil Heath",
+      "Category": ""
     },
     {
       "Id": 203,
-      "Quote": "The mindset of a champion is that I put myself in a certain situation to win",
-      "Author": "I don't play to lose",
-      "Category": "I dont prepare to lose"
+      "Quote": "The mindset of a champion is that I put myself in a certain situation to win I don't play to lose I dont prepare to lose",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 204,
@@ -1258,9 +1252,9 @@
     },
     {
       "Id": 208,
-      "Quote": "I don't do this to be healthy",
-      "Author": "I do this to get big muscles.",
-      "Category": "Markus Ruhl"
+      "Quote": "I don't do this to be healthy I do this to get big muscles.",
+      "Author": "Markus Ruhl",
+      "Category": ""
     },
     {
       "Id": 209,
@@ -1270,9 +1264,9 @@
     },
     {
       "Id": 210,
-      "Quote": "If a man doesn't have a dream",
-      "Author": "then he has nothing to work for. Nothing to get up in the morning. No reason",
-      "Category": "no purpose"
+      "Quote": "If a man doesn't have a dream then he has nothing to work for. Nothing to get up in the morning. No reason no purpose",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 211,
@@ -1282,21 +1276,21 @@
     },
     {
       "Id": 212,
-      "Quote": "The harder you work and the more you sear and bleed for a win",
-      "Author": "the sweeter that victory tastes.",
-      "Category": "Branch Warren"
+      "Quote": "The harder you work and the more you sear and bleed for a win the sweeter that victory tastes.",
+      "Author": "Branch Warren",
+      "Category": ""
     },
     {
       "Id": 213,
-      "Quote": "I train for two reasons. Number one",
-      "Author": "I love working out",
-      "Category": "and number two"
+      "Quote": "I train for two reasons. Number one I love working out and number two",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 214,
-      "Quote": "I always go heavy and I always go to failure. Even when I tell myself I'm gonna go easy",
-      "Author": "once I get to the gym and start working",
-      "Category": "I never end up going easy. I hate leaving the floor feeling like I could have done more weight or more reps. I just love working out and going further than I ever did before."
+      "Quote": "I always go heavy and I always go to failure. Even when I tell myself I'm gonna go easy once I get to the gym and start working I never end up going easy. I hate leaving the floor feeling like I could have done more weight or more reps. I just love working out and going further than I ever did before.",
+      "Author": "",
+      "Category": ""
     },
     {
       "Id": 215,
